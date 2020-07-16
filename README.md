@@ -19,6 +19,14 @@
 - [Manutenzione](#manutenzione)
 - [Licenza](#licenza)
 
+# Componenti
+
+Il software si compone dei seguenti componenti:
+
+- [Componente1](github.com/comunediprova/gestionepersonale-componente1)
+- [Componente2](github.com/comunediprova/gestionepersonale-componente2)
+
+
 # Come iniziare
 
 ## Dipendenze
