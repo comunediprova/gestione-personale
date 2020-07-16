@@ -1,2 +1,51 @@
-# gestione-personale
-Software per la Gestione del Personale
+[![License](https://img.shields.io/github/license/comunediprova/gestione-personale.svg)](https://github.com/comunediprova/gestione-personale/blob/master/LICENSE)
+
+# Annunci / Status del progetto
+
+# Software di Gestione del Personale
+
+> Sottotitolo / Slogan / Descrizione breve
+
+*Read this in other languages: [English](README.EN.md).*
+
+## Immagini e GIF
+
+![Recordit GIF](http://g.recordit.co/iLN6A0vSD8.gif)
+
+# Indice
+
+- [Come iniziare](#come-iniziare)
+- [Come contribuire](#come-contribuire)
+- [Manutenzione](#manutenzione)
+- [Licenza](#licenza)
+
+# Come iniziare
+
+## Dipendenze
+## Come installare
+
+## Documentazione
+### Link a documentazione esterna 
+
+# Come contribuire
+## Struttura delle directory / branch
+
+## Community
+
+### Code of conduct
+
+### Responsible Disclosure
+
+### Segnalazione bug e richieste di aiuto
+
+# Manutenzione 
+
+# Licenza 
+
+## Licenza generale 
+Questo repository è coperto da una licenza GNU AGPL v3.0
+
+
+## Autori e Copyright
+
+## Licenze software dei componenti di terze parti
