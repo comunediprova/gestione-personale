@@ -23,8 +23,8 @@
 
 Il software si compone dei seguenti componenti:
 
-- [Componente1](https://github.com/comunediprova/gestionepersonale-componente1)
-- [Componente2](https://github.com/comunediprova/gestionepersonale-componente2)
+- [Componente1](https://github.com/comunediprova/softwarepersonale-componente1)
+- [Componente2](https://github.com/comunediprova/softwarepersonale-componente2)
 
 
 # Come iniziare
