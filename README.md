@@ -48,4 +48,6 @@ Questo repository è coperto da una licenza GNU AGPL v3.0
 
 ## Autori e Copyright
 
+Comune di Prova - Main Copyright Holder
+
 ## Licenze software dei componenti di terze parti
